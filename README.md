@@ -7,28 +7,18 @@
 
 ## Install 
 ```
-- install git or composer
+- install git
 ```
 ```
 cd /var/www/html
 git clone https://github.com/zehiyazerin/MangoSpot.git
 ```
-or
-```
-cd /var/www/html
-wget https://github.com/zehiyazerin/MangoSpot/archive/master.zip
-unzip *.zip
-```
-or
-```
-cd /var/www/html
-composer require mangospot/mangospot
 ```
 ### Note:
 ```
 Enable: htaccess, php-mcrypt, php-ssh2, php-gd, php-curl, php-xml, php-xsl, php-zip
 ```
-Edit Username & Password ssh on [api/config.php](https://github.com/zehiyazerin/MangoSpot/master/api/config.php)
+Edit Username & Password ssh on [api/config.php](https://github.com/zehiyazerin/MangoSpot/blob/master/include/config.php)
 
 ### Demo & Tutorial
 [Video Tutorial](https://www.youtube.com/watch?v=Df3jDXt7n3Y&list=PLBwbrrj11losuLh2W9t36YQmB9h0NG4Fc)
