@@ -9,6 +9,7 @@
 ```
 - install git
 ```
+```
 cd /var/www/html
 git clone https://github.com/zehiyazerin/MangoSpot.git
 ```
