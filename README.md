@@ -7,6 +7,7 @@
 
 ## Install 
 ```
+```
 - install git
 ```
 ```
@@ -16,12 +17,15 @@ git clone https://github.com/zehiyazerin/MangoSpot.git
 ```
 ### Note:
 ```
+```
 Enable: htaccess, php-mcrypt, php-ssh2, php-gd, php-curl, php-xml, php-xsl, php-zip
+```
 ```
 Edit Username & Password ssh on [api/config.php](https://github.com/zehiyazerin/MangoSpot/blob/master/include/config.php)
 
 ### Demo & Tutorial
 [Video Tutorial](https://www.youtube.com/watch?v=Df3jDXt7n3Y&list=PLBwbrrj11losuLh2W9t36YQmB9h0NG4Fc)
+```
 ```
 - Username: admin
 - Password: admin
@@ -29,4 +33,5 @@ Edit Username & Password ssh on [api/config.php](https://github.com/zehiyazerin/
 ```
 Paypal: akhnirafkaa@gmail.com
 Phone: +6289515600180
+```
 ```
