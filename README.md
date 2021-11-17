@@ -27,4 +27,3 @@ Edit Username & Password ssh on [api/config.php](https://github.com/zehiyazerin/
 ```
 Paypal: akhnirafkaa@gmail.com
 Phone: +6289515600180
-```
